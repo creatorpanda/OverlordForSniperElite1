@@ -20,11 +20,16 @@ I've been working on the Overlord for some days. Mostly studying IP harvesting a
 ![Overlord for Sniper Elite 1](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Overlord3.png)
 
 Things I'll try to finish until next update
-- [ ] complete Interface (only "Main Display" for now)
+
+- [x] complete Interface (only "Main Display" for now)
+
 - [ ] saving IPs in logs
+
 - [ ] proper actions when X button is pressed
+
 - [ ] proper events log functionality
-- [ ] proper event log export
+
+- [ ] proper event log export (including usernames and banned usernames for now)
 
 (ticking things when done, before the next update)
 

@@ -44,7 +44,17 @@ I made no important progress. It's going to take a while until I'm ready to cont
 
 ![Dark Mode](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/DarkMode.png)
 
-*I have no plans until the next update. I'll use some quality time to study what i need to elarn before I continue.*
+*I have no plans until the next update. I'll use some quality time to study what i need to learn before I continue.*
 Quarantine makes everything difficult + semester is coming. Pray for me.
 
 #### ***next README.md update at 13/05/2020 (dd/mm/yyyy)***
+
+### Update #3, Sunday 31/5/2020 (where I've been)
+
+It's been a while since the date I was supposed to report my progress and even more since the last update.
+Truth is that studying for uni (business and tourism management) and other courses I've taken, monopolize my time.
+Plus, my 11 years old desktop eventually became unreliable. Most probably a motherboard malfunction caused by corrosion that messes up RAM slots. That of course ruins stability and proper functioning of the machine, so I decided to put my desktop to rest and only use my laptop from now on. The **Overlord for Sniper Elite 1** project is safely waiting for me to extract it, in one of the desktop's drives.
+
+That means that the whole progress freezes for a while, but doesn't stop entirely. Since I don't want to let you wait without a certain update date, I'll update this form again in a couple of weeks. Anything that happens regarding the project until then will be posted here.
+
+#### ***next README.md update at 15/06/2020 (dd/mm/yyyy)***

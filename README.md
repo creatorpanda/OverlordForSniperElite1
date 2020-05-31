@@ -9,6 +9,7 @@ An attempt to recreate a stable and self-sustainable version of the [legendary *
 ---
 # Progress Updates
 
+
 ### Update #1, Wednesday 29/4/2020 
 
 I've been working on the Overlord for some days. Mostly studying IP harvesting and manipulation. Currently, the Overlord looks like this:

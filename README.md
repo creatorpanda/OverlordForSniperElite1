@@ -10,7 +10,7 @@ An attempt to recreate a stable and self-sustainable version of the [legendary *
 # Progress Updates
 
 
-### Update #1, Wednesday 29/4/2020 
+### Update #1, Wednesday 29/4/2020 (the beginning)
 
 I've been working on the Overlord for some days. Mostly studying IP harvesting and manipulation. Currently, the Overlord looks like this:
 
@@ -35,7 +35,7 @@ I strikethrough'd some points cause I realized the load of work they need to be 
 #### ***next README.md update at 06/05/2020 (dd/mm/yyyy)***
 
 ---
-### Update #2, Wednesday 6/5/2020()
+### Update #2, Wednesday 6/5/2020 (dark theme)
 (**R.I.P. [Florian Schneider](https://en.wikipedia.org/wiki/Florian_Schneider)**) 
 
 I made no important progress. It's going to take a while until I'm ready to continue on the IP matter. I finished the "Main Display" GUI, all the variables needed, and now I'm focusing on the network capabilities of the program. I believe unless I finish that, nothing else can be accomplished. Finally, created a dark mode because I enjoy dark-themed programs. I like it, but it doesn't serve the main purpose of the Overlord. Here's what I made:

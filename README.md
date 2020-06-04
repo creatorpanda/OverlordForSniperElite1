@@ -1,5 +1,5 @@
 # Overlord For Sniper Elite 1
-An attempt to recreate a stable and self-sustainable version of the [legendary **Spotter for Sniper Elite**](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Legendary%20Spotter.png) from scratch.
+An attempt to recreate from scratch a stable and self-sustainable version of the [legendary **Spotter for Sniper Elite**](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Legendary%20Spotter.png).
 
 ### A journal where I record the progress of my biggest, most complicated project ever.
 

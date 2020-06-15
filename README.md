@@ -62,7 +62,7 @@ That means that the whole progress freezes for a while, but doesn't stop entirel
 #### ***next README.md update at 15/06/2020 (dd/mm/yyyy)***
 
 ---
-### Update #3, Monday 15/6/2020 (game status)
+### Update #4, Monday 15/6/2020 (game status)
 
 I safely recovered the whole project from my dead desktop and stored it in multiple storage devices and cloud. Updated every piece of software I need to develop the Overlord so everything is fresh and clean.
 

@@ -62,3 +62,21 @@ That means that the whole progress freezes for a while, but doesn't stop entirel
 #### ***next README.md update at 15/06/2020 (dd/mm/yyyy)***
 
 ---
+### Update #3, Monday 15/6/2020 (game status)
+
+I safely recovered the whole project from my dead desktop and stored it in multiple storage devices and cloud. Updated every piece of software I need to develop the Overlord so everything is fresh and clean.
+
+The Overlord's development took a step further. Now the Overlord knows when SE1 runs and lets us know. 
+![GameStatus](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/SniperEliteStatus.png)
+This step brings so many new options to the table. Things the old Spotter had and we need back. 
+
+Other things that happened:
+- As you may have noticed, the light/dark theme button's size changed. Wow..
+- The greatest things though, happened where you cannot see: I revised and reworked many lines of code so things run better and future code studying and debugging is easier.
+- I made clear what the program needs, how to make it happen, and in what order. So the development goes smoother and more organized.
+
+I'll slowly continue the development through the uni semester that's attacking. It's going to take a while because the last OS my professors laid their hands on was the mighty MS DOS. Thank you for keeping up with me.
+
+#### ***next README.md update at 15/07/2020 (dd/mm/yyyy)***
+
+---

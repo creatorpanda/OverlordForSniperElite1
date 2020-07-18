@@ -87,7 +87,7 @@ I'll slowly continue the development through the uni semester that's attacking. 
 
 Now that the uni exams are behind and uni is gone for the summer, I have all the time I need to sharpen my coding skills. I'll be working on many private projects that won't show up here, but the Overlord will be one of my priorities.
 
-What's new about the Overlord? Error handling. Sharing with the community a piece of software that crashes uncontrollably and without any warning is the worst thing for both you and me. I take my work seriously. So I added error handling and error codes. Let's see an example:
+What's new about the Overlord? Error handling. I would never share a piece of software that crashes uncontrollably with anyone. I take my work seriously. So I added error handling and error codes. Let's see an example:
 
 If you launch the Overlord while not connected to the internet, the Overlord is going to face some issues. One of them is the inability to find the host's public IP. Thus, the Overlord is going to look like this:
 ![OfflineStatus](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/OFSE1OfflineBehavior.png)
@@ -97,10 +97,12 @@ Plus, a window will pop-up and let you know what seems to be the issue and provi
 
 So, in case you're sure that everything's fine with your connection and it's the Overlord's fault for not working properly, you can go back to [the Official Steam Group for the "Overlord for Sniper Elite 1" Software](https://steamcommunity.com/groups/overlordforsniperelite1), go to the ["Bugs Reports" sub-forum](https://steamcommunity.com/groups/overlordforsniperelite1/discussions/7/2793871682804344559) (you have to be a member of the group) and let me know that you're getting -for that example- a "KARLSHORST" error (The errors are named after SE1 themes). That way you don't mess with "nerdy" incomprehensible error messages. You get a user-friendly interface and I know a bit better where to search for the issue that's happening.
 
+***Please note that the Error Codes HAVE ALREADY CHANGED (still SE1 themes) and this is just an example, not an error codes' explanation list. Making a list of these Error Codes doesn't matter for now. Once the Overlord is released, the already existing error codes (may add more after release) will never change again to avoid confusion, and an explanation list will be made.***
+
 The Overlord gets better and better every day.
 
 One last thing:
-During the past month, I and a brotherly friend of mine (greater programmer than me), studied the Original Spotter in-depth. I am not going to get into details of our actions and studies because that's not the point. The point is that our research helped the development of the Overlord significantly. I really cannot explain how important our work was. All this paved a path for many new ideas and ways to pursue Overlord's development. I'm still the only one working on the code (at least for now) but his contributions are remarkable. Thank you, brother.
+During the past month, a brotherly friend of mine (greater programmer than me) and I, studied the Original Spotter in-depth. I am not going to get into details of our actions and studies because that's not the point. The point is that our research helped the development of the Overlord significantly. I really cannot explain how important our work was. All this paved a path for many new ideas and ways to pursue Overlord's development. I'm still the only one working on the code (at least for now) but his contributions are remarkable. Thank you, brother.
 
 #### ***next README.md update at 15/08/2020 (dd/mm/yyyy)***
 

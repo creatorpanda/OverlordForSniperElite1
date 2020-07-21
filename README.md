@@ -1,6 +1,11 @@
 # Overlord For Sniper Elite 1
 Recreating from scratch, a stable and self-sustainable version of the [legendary **Spotter for Sniper Elite**](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Legendary%20Spotter.png).
 
+*Related Links*\
+**[Official Steam Group for the "Overlord for Sniper Elite 1" Software](https://steamcommunity.com/groups/overlordforsniperelite1)**\
+**[Bugs Report sub-forum (you have to be a Steam Group member first)](https://steamcommunity.com/groups/overlordforsniperelite1/discussions/7/2793871682804344559/)**\
+**[One and only real distributing site (once the software is ready)](https://github.com/creatorpanda/OverlordForSniperElite1)**
+
 ### A journal where I record the progress of my biggest, most complicated project ever.
 
 **Note:** *I won't be uploading the program's code throughout the process. I don't know if I ever will or not. This is **the official page** where someone can find information **for Overlord** in case I ever manage to publish a functional piece of software. All the downloads, upgrades, updates and news regarding everything that concerns the proejct will be posted here.*

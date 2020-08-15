@@ -113,3 +113,16 @@ During the past month, a brotherly friend of mine (greater programmer than me) a
 #### ***next README.md update at 15/08/2020 (dd/mm/yyyy)***
 
 ---
+### Update #6, Saturday 15/8/2020 (UI changes)
+
+This time there was no important progress. The UI changed to fit two clickable texts that lead to the only two official sites of the software. The signature was moved way higher and turned to simple text. From now on, if an error that doesn't break the software occurs, apart from the log text that appears (that can be lost as more text comes) and the window that pops that may close accidentally, a red sign also apears to warn you. It breaks or does nothing. It just stays there so you notice that something's wrong. 
+![ErrorSign](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/ErrorOccurredSign.png)
+
+Fron now on the most important part begins. The main reason this softawre is needed: Kicking and banning.\
+This is going to take me a lot of time. One month won't make an important update. I have a lot of studying to do. The next update will be posted in **November** 15th.\
+Anything important will be posted right here and announced **[there](https://steamcommunity.com/groups/overlordforsniperelite1)**.\
+
+Until then, stay safe and healthy <3
+#### ***next README.md update at 15/11/2020 (dd/mm/yyyy)***
+
+---

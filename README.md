@@ -120,7 +120,7 @@ There was no important progress this time. The UI changed to fit two clickable t
 
 Fron now on the most important part begins. The main reason this softawre is needed: Kicking and banning.\
 This is going to take me a lot of time. One month won't make an important update. I have a lot of studying to do. The next update will be posted in **November** 15th.\
-Anything important will be posted right here and announced **[there](https://steamcommunity.com/groups/overlordforsniperelite1)**.\
+Until then, anything important will be posted right here and announced **[there](https://steamcommunity.com/groups/overlordforsniperelite1)**.
 
 Until then, stay safe and healthy <3
 #### ***next README.md update at 15/11/2020 (dd/mm/yyyy)***

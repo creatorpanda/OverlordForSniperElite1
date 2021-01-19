@@ -126,3 +126,24 @@ Until then, stay safe and healthy <3
 #### ***next README.md update at 15/11/2020 (dd/mm/yyyy)***
 
 ---
+### Update #7, Tuesday 19/1/2021 (Basic Functionalities)
+
+Happy new year everyone! Hopefully, this is not 2020 v2.0 and great things come along!\
+The long-awaited update is finally here, and I really wish it finds you all healthy and mentally strong. I never updated the project in time because I just couldn't work efficiently.\
+The software I've been developing for the last nine months has finally started taking shape, as the inner mechanisms that give Overlord a purpose are slowly being installed.
+
+*There are several issues that are only a matter of time:*
+* The communications that Overlord has to do between players is still a massive subject for me, and the needed research/studying is great.
+* The quarantine that forces overstaying at home makes things difficult, including studying and researching.
+* Friends and I are busy with online uni lessons, and that slows Overlord's development down, since every line of code I implement needs to have the whole software rebuilt and tested in-game.
+
+**So here's how it goes from now on:**
+* First of all, Overlord needs to **continuously monitor players** that join and leave a game.
+* Once the players that join a game are successfully monitored, the **kick** functionality will be implemented.
+* Once the kicking works perfectly, the **logging** functionality will be implemented.
+* Once the logging works perfectly, the **banning** functionality will be implemented.
+
+And that's going to be **Overlord for Sniper Elite 1 v1.0**
+
+Please be patient and everything's going to work out.
+#### ***next README.md update at 15/3/2021 (dd/mm/yyyy)***

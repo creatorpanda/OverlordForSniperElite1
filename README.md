@@ -12,77 +12,57 @@ Recreating from scratch, a stable and self-sustainable version of the [legendary
 
 ---
 ---
-# Progress Updates
+# Progress Updates (most recent to oldest)
 
 
-### Update #1, Wednesday 29/4/2020 (the beginning)
+### Update #8, Thursday 18/3/2021 (Major Announcement)
 
-I've been working on the Overlord for some days. Mostly studying IP harvesting and manipulation. Currently, the Overlord looks like this:
+Hello again :)\
+This thread got quite long so I rearranged the updates, placing the most recent first.\
+\
+Due to all the events that take place in my country and the whole world, the project slowed down. I will stop posting updates every now and then. I will only post when there's something new to announce. I realised that posting under certain dates pushed my work making it a burden and making me produce bad code. I managed to find more people to help me out with the projects. People with stronger machines that can run tests faster. I have a team of IT students that help me whenever they can.\
+\
+If you want to stay up to date with the project you can subscribe to this project, and/or join the official sites that are noted above. The project will be completed. It's only a matter of time.\
+\
+Please keep believing in this project and we will all be rewarded soon.\
+Stay safe and healthy <3
 
-![Overlord for Sniper Elite 1](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Overlord3.png)
-
-Things I'll try to finish until next update
-
-- [x] complete Interface (only "Main Display" for now)
-
-- [x] carefully create variables for software needs.  
-
-- ~[ ] saving IPs in logs~
-
-- ~[ ] proper actions when X button is pressed~
-
-- ~[ ] proper events log functionality~
-
-- ~[ ] proper event log export (including usernames and banned usernames for now)~
-
-Note: I strikethrough'd some points cause I realized the load of work they need to be accomplished. I couldn't get these ready in 7 days. I'n not that good at programming *yet*..
-
-#### ***next README.md update at 06/05/2020 (dd/mm/yyyy)***
 
 ---
-### Update #2, Wednesday 6/5/2020 (dark theme)
-(**R.I.P. [Florian Schneider-Esleben](https://en.wikipedia.org/wiki/Florian_Schneider)**) 
+### Update #7, Tuesday 19/1/2021 (Basic Functionalities)
 
-I made no important progress. It's going to take a while until I'm ready to continue on the IP matter. I finished the "Main Display" GUI, all the variables needed, and now I'm focusing on the network capabilities of the program. I believe unless I finish that, nothing else can be accomplished. Finally, created a dark mode because I enjoy dark-themed programs. I like it, but it doesn't serve the main purpose of the Overlord. Here's what I made:
+Happy new year everyone! Hopefully, this is not 2020 v2.0 and great things come along!\
+The long-awaited update is finally here, and I really wish it finds you all healthy and mentally strong. I never updated the project in time because I just couldn't work efficiently.\
+The software I've been developing for the last nine months has finally started taking shape, as the inner mechanisms that give Overlord a purpose are slowly being installed.
 
-![Dark Mode](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/DarkMode.png)
+*There are several issues that are only a matter of time:*
+* The communications that Overlord has to do between players is still a massive subject for me, and the needed research/studying is great.
+* The quarantine that forces overstaying at home makes things difficult, including studying and researching.
+* Friends and I are busy with online uni lessons, and that slows Overlord's development down, since every line of code I implement needs to have the whole software rebuilt and tested in-game.
 
-*I have no plans until the next update. I'll use some quality time to study what i need to learn before I continue.*
-Quarantine makes everything difficult + semester is coming. Pray for me.
+**So here's how it goes from now on:**
+* First of all, Overlord needs to **continuously monitor players** that join and leave a game.
+* Once the players that join a game are successfully monitored, the **kick** functionality will be implemented.
+* Once the kicking works perfectly, the **logging** functionality will be implemented.
+* Once the logging works perfectly, the **banning** functionality will be implemented.
 
-#### ***next README.md update at 13/05/2020 (dd/mm/yyyy)***
+And that's going to be **Overlord for Sniper Elite 1 v1.0**
 
----
-### Update #3, Sunday 31/5/2020 (where I've been)
-(**R.I.P. [George Perry Floyd](https://en.wikipedia.org/wiki/Death_of_George_Floyd)**)
-
-It's been a while since the date I was supposed to report my progress and even more since the last update.
-Truth is that studies for uni (business and tourism management) and other courses I've taken, monopolize my time.
-Plus, my 11 years old desktop eventually became unreliable. Most probably a motherboard malfunction caused by corrosion that messes up RAM slots. That of course ruins stability and proper functioning of the machine, so I decided to put my desktop to rest and only use my laptop from now on. The **Overlord for Sniper Elite 1** project is safely waiting for me to extract it, in one of the desktop's drives.
-
-**Note:** *I studied my previous updates and realized that I'm trying to complete the program without a big main plan devided in smaller parts and organized steps. I need to take a step back and make a plan of what needs to be done, when and how.*
-
-That means that the whole progress freezes for a while, but doesn't stop entirely. Since I don't want to let you wait without a certain update date, I'll update this form again in a couple of weeks. Anything that happens regarding the project until then will be posted here.
-
-#### ***next README.md update at 15/06/2020 (dd/mm/yyyy)***
+Please be patient and everything's going to work out.
+#### ***next README.md update at 15/3/2021 (dd/mm/yyyy)***
 
 ---
-### Update #4, Monday 15/6/2020 (game status)
+### Update #6, Saturday 15/8/2020 (UI changes)
 
-I safely recovered the whole project from my dead desktop and stored it in multiple storage devices and cloud. Updated every piece of software I need to develop the Overlord so everything is fresh and clean.
+There was no important progress this time. The UI changed to fit two clickable texts that lead to the only two official sites of the software. The signature was moved way higher and turned to simple text. From now on, if an error that doesn't break the software occurs, apart from the log text that appears (that can be lost as more text comes) and the window that pops that may close accidentally, a red sign also apears to warn you. It breaks or does nothing. It just stays there so you notice that something's wrong. 
+![ErrorSign](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Update6Notes.png)
 
-The Overlord's development took a step further. Now the Overlord knows when SE1 runs and lets us know. 
-![GameStatus](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/SniperEliteStatus.png)
-This step brings so many new options to the table. Things the old Spotter had and we need back. 
+Fron now on the most important part begins. The main reason this softawre is needed: Kicking and banning.\
+This is going to take me a lot of time. One month won't make an important update. I have a lot of studying to do. The next update will be posted in **November** 15th.\
+Until then, anything important will be posted right here and announced **[there](https://steamcommunity.com/groups/overlordforsniperelite1)**.
 
-Other things that happened:
-- As you may have noticed, the light/dark theme button's size changed. Wow..
-- The greatest things though, happened where you cannot see: I revised and reworked many lines of code so things run better and future code studying and debugging is easier.
-- I made clear what the program needs, how to make it happen, and in what order. So the development goes smoother and more organized.
-
-I'll slowly continue the development through the uni semester that's attacking. It's going to take a while because the last OS my professors laid their hands on was the mighty MS DOS. Thank you for keeping up with me.
-
-#### ***next README.md update at 15/07/2020 (dd/mm/yyyy)***
+Until then, stay safe and healthy <3
+#### ***next README.md update at 15/11/2020 (dd/mm/yyyy)***
 
 ---
 ### Update #5, Wednesday 15/7/2020 (error handling and more)
@@ -113,37 +93,73 @@ During the past month, a brotherly friend of mine (greater programmer than me) a
 #### ***next README.md update at 15/08/2020 (dd/mm/yyyy)***
 
 ---
-### Update #6, Saturday 15/8/2020 (UI changes)
+### Update #4, Monday 15/6/2020 (game status)
 
-There was no important progress this time. The UI changed to fit two clickable texts that lead to the only two official sites of the software. The signature was moved way higher and turned to simple text. From now on, if an error that doesn't break the software occurs, apart from the log text that appears (that can be lost as more text comes) and the window that pops that may close accidentally, a red sign also apears to warn you. It breaks or does nothing. It just stays there so you notice that something's wrong. 
-![ErrorSign](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Update6Notes.png)
+I safely recovered the whole project from my dead desktop and stored it in multiple storage devices and cloud. Updated every piece of software I need to develop the Overlord so everything is fresh and clean.
 
-Fron now on the most important part begins. The main reason this softawre is needed: Kicking and banning.\
-This is going to take me a lot of time. One month won't make an important update. I have a lot of studying to do. The next update will be posted in **November** 15th.\
-Until then, anything important will be posted right here and announced **[there](https://steamcommunity.com/groups/overlordforsniperelite1)**.
+The Overlord's development took a step further. Now the Overlord knows when SE1 runs and lets us know. 
+![GameStatus](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/SniperEliteStatus.png)
+This step brings so many new options to the table. Things the old Spotter had and we need back. 
 
-Until then, stay safe and healthy <3
-#### ***next README.md update at 15/11/2020 (dd/mm/yyyy)***
+Other things that happened:
+- As you may have noticed, the light/dark theme button's size changed. Wow..
+- The greatest things though, happened where you cannot see: I revised and reworked many lines of code so things run better and future code studying and debugging is easier.
+- I made clear what the program needs, how to make it happen, and in what order. So the development goes smoother and more organized.
+
+I'll slowly continue the development through the uni semester that's attacking. It's going to take a while because the last OS my professors laid their hands on was the mighty MS DOS. Thank you for keeping up with me.
+
+#### ***next README.md update at 15/07/2020 (dd/mm/yyyy)***
 
 ---
-### Update #7, Tuesday 19/1/2021 (Basic Functionalities)
+### Update #3, Sunday 31/5/2020 (where I've been)
+(**R.I.P. [George Perry Floyd](https://en.wikipedia.org/wiki/Death_of_George_Floyd)**)
 
-Happy new year everyone! Hopefully, this is not 2020 v2.0 and great things come along!\
-The long-awaited update is finally here, and I really wish it finds you all healthy and mentally strong. I never updated the project in time because I just couldn't work efficiently.\
-The software I've been developing for the last nine months has finally started taking shape, as the inner mechanisms that give Overlord a purpose are slowly being installed.
+It's been a while since the date I was supposed to report my progress and even more since the last update.
+Truth is that studies for uni (business and tourism management) and other courses I've taken, monopolize my time.
+Plus, my 11 years old desktop eventually became unreliable. Most probably a motherboard malfunction caused by corrosion that messes up RAM slots. That of course ruins stability and proper functioning of the machine, so I decided to put my desktop to rest and only use my laptop from now on. The **Overlord for Sniper Elite 1** project is safely waiting for me to extract it, in one of the desktop's drives.
 
-*There are several issues that are only a matter of time:*
-* The communications that Overlord has to do between players is still a massive subject for me, and the needed research/studying is great.
-* The quarantine that forces overstaying at home makes things difficult, including studying and researching.
-* Friends and I are busy with online uni lessons, and that slows Overlord's development down, since every line of code I implement needs to have the whole software rebuilt and tested in-game.
+**Note:** *I studied my previous updates and realized that I'm trying to complete the program without a big main plan devided in smaller parts and organized steps. I need to take a step back and make a plan of what needs to be done, when and how.*
 
-**So here's how it goes from now on:**
-* First of all, Overlord needs to **continuously monitor players** that join and leave a game.
-* Once the players that join a game are successfully monitored, the **kick** functionality will be implemented.
-* Once the kicking works perfectly, the **logging** functionality will be implemented.
-* Once the logging works perfectly, the **banning** functionality will be implemented.
+That means that the whole progress freezes for a while, but doesn't stop entirely. Since I don't want to let you wait without a certain update date, I'll update this form again in a couple of weeks. Anything that happens regarding the project until then will be posted here.
 
-And that's going to be **Overlord for Sniper Elite 1 v1.0**
+#### ***next README.md update at 15/06/2020 (dd/mm/yyyy)***
 
-Please be patient and everything's going to work out.
-#### ***next README.md update at 15/3/2021 (dd/mm/yyyy)***
+---
+### Update #2, Wednesday 6/5/2020 (dark theme)
+(**R.I.P. [Florian Schneider-Esleben](https://en.wikipedia.org/wiki/Florian_Schneider)**) 
+
+I made no important progress. It's going to take a while until I'm ready to continue on the IP matter. I finished the "Main Display" GUI, all the variables needed, and now I'm focusing on the network capabilities of the program. I believe unless I finish that, nothing else can be accomplished. Finally, created a dark mode because I enjoy dark-themed programs. I like it, but it doesn't serve the main purpose of the Overlord. Here's what I made:
+
+![Dark Mode](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/DarkMode.png)
+
+*I have no plans until the next update. I'll use some quality time to study what i need to learn before I continue.*
+Quarantine makes everything difficult + semester is coming. Pray for me.
+
+#### ***next README.md update at 13/05/2020 (dd/mm/yyyy)***
+
+---
+### Update #1, Wednesday 29/4/2020 (the beginning)
+
+I've been working on the Overlord for some days. Mostly studying IP harvesting and manipulation. Currently, the Overlord looks like this:
+
+![Overlord for Sniper Elite 1](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Overlord3.png)
+
+Things I'll try to finish until next update
+
+- [x] complete Interface (only "Main Display" for now)
+
+- [x] carefully create variables for software needs.  
+
+- ~[ ] saving IPs in logs~
+
+- ~[ ] proper actions when X button is pressed~
+
+- ~[ ] proper events log functionality~
+
+- ~[ ] proper event log export (including usernames and banned usernames for now)~
+
+Note: I strikethrough'd some points cause I realized the load of work they need to be accomplished. I couldn't get these ready in 7 days. I'n not that good at programming *yet*..
+
+#### ***next README.md update at 06/05/2020 (dd/mm/yyyy)***
+
+---

@@ -1,10 +1,14 @@
 # Overlord For Sniper Elite 1
-Recreating from scratch, a stable and self-sustainable version of the [legendary **Spotter for Sniper Elite**](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Legendary%20Spotter.png).
+### Recreating from scratch, a stable and self-sustainable version of the [legendary **Spotter for Sniper Elite**](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Legendary%20Spotter.png).
+
+*The **Spotter for Sniper Elite** cannot operate since its official site was terminated. I tried everything. There is no fix to that. Unofficial fixes partially repared the kick/ban functionality, but every other functionality -such as *knife*, *panzerfaust*, etc- is unfortunately inoperable.*
 
 *Related Links*\
 **[Official Steam Group for the "Overlord for Sniper Elite 1" Software](https://steamcommunity.com/groups/overlordforsniperelite1)**\
 **[Bugs Report sub-forum (you have to be a Steam Group member first)](https://steamcommunity.com/groups/overlordforsniperelite1/discussions/7/2793871682804344559/)**\
 **[One and only real distributing site (once the software is ready)](https://github.com/creatorpanda/OverlordForSniperElite1)**
+
+:love_letter: *Please reach out to me on [Twitter](https://twitter.com/creatorpanda)!* :love_letter:
 
 ### A journal where I record the progress of my biggest, most complicated project ever.
 

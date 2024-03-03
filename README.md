@@ -19,8 +19,7 @@
 ---
 # Progress Updates (most recent to oldest)
 
-
-### Update #8, Thursday 18/3/2021 (Major Announcement)
+### Update #8, Thursday 18/03/2021 (Major Announcement)
 
 Hello again :)\
 This thread got quite long so I rearranged the updates, placing the most recent first.\
@@ -34,7 +33,7 @@ Stay safe and healthy <3
 
 
 ---
-### Update #7, Tuesday 19/1/2021 (Basic Functionalities)
+### Update #7, Tuesday 19/01/2021 (Basic Functionalities)
 
 Happy new year everyone! Hopefully, this is not 2020 v2.0 and great things come along!\
 The long-awaited update is finally here, and I really wish it finds you all healthy and mentally strong. I never updated the project in time because I just couldn't work efficiently.\
@@ -54,10 +53,10 @@ The software I've been developing for the last nine months has finally started t
 And that's going to be **Overlord for Sniper Elite 1 v1.0**
 
 Please be patient and everything's going to work out.
-#### ***next README.md update at 15/3/2021 (dd/mm/yyyy)***
+#### ***next README.md update at 15/03/2021 (dd/mm/yyyy)***
 
 ---
-### Update #6, Saturday 15/8/2020 (UI changes)
+### Update #6, Saturday 15/08/2020 (UI changes)
 
 There was no important progress this time. The UI changed to fit two clickable texts that lead to the only two official sites of the software. The signature was moved way higher and turned to simple text. From now on, if an error that doesn't break the software occurs, apart from the log text that appears (that can be lost as more text comes) and the window that pops that may close accidentally, a red sign also apears to warn you. It breaks or does nothing. It just stays there so you notice that something's wrong. 
 ![ErrorSign](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Update6Notes.png)
@@ -70,7 +69,7 @@ Until then, stay safe and healthy <3
 #### ***next README.md update at 15/11/2020 (dd/mm/yyyy)***
 
 ---
-### Update #5, Wednesday 15/7/2020 (error handling and more)
+### Update #5, Wednesday 15/07/2020 (error handling and more)
 (**R.I.P. [Grant Masaru Imahara](https://en.wikipedia.org/wiki/Grant_Imahara)**)
 
 *First of all, I'd like to take a minute to let you know that the passing of Grant Imahara hurt me a lot. Mythbusters and Brainiac were my favorite shows when I was a little kid and losing a brilliant, ingenious childhood hero at such a young age was so unexpected. My deepest condolences to his family and friends.*
@@ -98,7 +97,7 @@ During the past month, a brotherly friend of mine (greater programmer than me) a
 #### ***next README.md update at 15/08/2020 (dd/mm/yyyy)***
 
 ---
-### Update #4, Monday 15/6/2020 (game status)
+### Update #4, Monday 15/06/2020 (game status)
 
 I safely recovered the whole project from my dead desktop and stored it in multiple storage devices and cloud. Updated every piece of software I need to develop the Overlord so everything is fresh and clean.
 
@@ -116,7 +115,7 @@ I'll slowly continue the development through the uni semester that's attacking. 
 #### ***next README.md update at 15/07/2020 (dd/mm/yyyy)***
 
 ---
-### Update #3, Sunday 31/5/2020 (where I've been)
+### Update #3, Sunday 31/05/2020 (where I've been)
 (**R.I.P. [George Perry Floyd](https://en.wikipedia.org/wiki/Death_of_George_Floyd)**)
 
 It's been a while since the date I was supposed to report my progress and even more since the last update.
@@ -130,7 +129,7 @@ That means that the whole progress freezes for a while, but doesn't stop entirel
 #### ***next README.md update at 15/06/2020 (dd/mm/yyyy)***
 
 ---
-### Update #2, Wednesday 6/5/2020 (dark theme)
+### Update #2, Wednesday 6/05/2020 (dark theme)
 (**R.I.P. [Florian Schneider-Esleben](https://en.wikipedia.org/wiki/Florian_Schneider)**) 
 
 I made no important progress. It's going to take a while until I'm ready to continue on the IP matter. I finished the "Main Display" GUI, all the variables needed, and now I'm focusing on the network capabilities of the program. I believe unless I finish that, nothing else can be accomplished. Finally, created a dark mode because I enjoy dark-themed programs. I like it, but it doesn't serve the main purpose of the Overlord. Here's what I made:
@@ -143,7 +142,7 @@ Quarantine makes everything difficult + semester is coming. Pray for me.
 #### ***next README.md update at 13/05/2020 (dd/mm/yyyy)***
 
 ---
-### Update #1, Wednesday 29/4/2020 (the beginning)
+### Update #1, Wednesday 29/04/2020 (the beginning)
 
 I've been working on the Overlord for some days. Mostly studying IP harvesting and manipulation. Currently, the Overlord looks like this:
 

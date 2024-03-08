@@ -82,7 +82,7 @@ That's why just the installer of Spotter wouldn't be enough to make it function 
 
 `"Make sure GentlemenOfTheScope.com is accessible through your web browser."`, is the error that constantly appeared after the website died with the official servers.
 
-But there's another message saying `"It has been too long since Spotter was able to access GentlemenOfTheScope.com"`, probably an error shown later to people who had the program already installed when the site went down. Given the fact that I tried to recover the program after many years, I never got to face this error.\
+But there are other messages like `"It has been too long since Spotter was able to access GentlemenOfTheScope.com"` and `"To continue to use Spotter, you must get an upgrade at GentlemenOfTheScope.com"`, an error shown later to people who had the program already installed when the site went down. Given the fact that I tried to recover the program after many years, I never got to face the second error.\
 This leads me to the conclusion that the Spotter was created to forever fail whenever the developers deemed it necessary, or the site went down for whatever reason. Despite any reason (software integrity?), the Spotter was made to have an expiration date no matter what (software availability).
 
 #### What about Overlord?

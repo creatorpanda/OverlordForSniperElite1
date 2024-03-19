@@ -143,7 +143,7 @@ Please be patient and everything's going to work out.
 ### Update #6, Saturday 15/08/2020 (UI changes)
 
 There was no important progress this time. The UI changed to fit two clickable texts that lead to the only two official sites of the software. The signature was moved way higher and turned to simple text. From now on, if an error that doesn't break the software occurs, apart from the log text that appears (that can be lost as more text comes) and the window that pops that may close accidentally, a red sign also appears to warn you. It breaks or does nothing. It just stays there so you notice that something's wrong. 
-![ErrorSign](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Update6Notes.png)
+![Update6Notes](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Update6Notes.gif)
 
 From now on the most important part begins. The main reason this software is needed is kicking and banning.\
 This is going to take me a lot of time. One month won't make an important update. I have a lot of studying to do. The next update will be posted in **November** 15th.\
@@ -186,7 +186,7 @@ During the past month, a brotherly friend of mine (a greater programmer than me)
 I safely recovered the whole project from my dead desktop and stored it in multiple storage devices and the cloud. Updated every piece of software I need to develop the Overlord so everything is fresh and clean.
 
 The Overlord's development took a step further. Now the Overlord knows when SE1 runs and lets us know. 
-![GameStatus](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/SniperEliteStatus.png)
+![SEGameStatus](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/SniperEliteStatus.gif)\
 This step brings so many new options to the table. Things the old Spotter had and we need back. 
 
 Other things that happened:
@@ -218,7 +218,7 @@ That means that the whole progress freezes for a while, but doesn't stop entirel
 
 I made no important progress. It's going to take a while until I'm ready to continue on the IP matter. I finished the "Main Display" GUI, and all the variables needed, and now I'm focusing on the network capabilities of the program. I believe unless I finish that, nothing else can be accomplished. Finally, created a dark mode because I enjoy dark-themed programs. I like it, but it doesn't serve the main purpose of the Overlord. Here's what I made:
 
-![Dark Mode](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/DarkMode.png)
+![Dark Mode](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/OFSEDarkMode.gif)
 
 *I have no plans until the next update. I'll use some quality time to study what I need to learn before I continue.*
 Quarantine makes everything difficult + the semester is coming. Pray for me.

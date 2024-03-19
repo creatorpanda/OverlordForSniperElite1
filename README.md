@@ -13,7 +13,7 @@
 ![Panzerfaust](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/SEPanzerfaustItemIcon.png)
 ### A journal where I record the progress of my biggest, most complicated project ever.
 
-**Note:** *I won't be uploading the program's code throughout the process. I don't know if I ever will or not. This is **the official page** where someone can find information **for Overlord** in case I ever manage to publish a functional piece of software. All the downloads, upgrades, updates, and news regarding everything that concerns the project will be posted here.*
+**Note:** *I won't upload the program's code throughout the process. I don't know if I ever will or not. This is **the official page** where someone can find information **for Overlord** in case I ever publish a functional piece of software. All the downloads, upgrades, updates, and news regarding everything that concerns the project will be posted here.*
 
 ---
 ---
@@ -21,7 +21,7 @@
 
 ### Update #9, Wednesday 06/03/2024 (Treasure Hunting)
 
-This is an update that contains knowledge I've been acquiring and data that I have been gathering in my spare time for almost three years. This update has been altered for years.
+This update contains knowledge I've been acquiring and data I have been gathering in my spare time for almost three years. This update has been altered for years.
 
 This update doesn't mainly have to do with Overlord, but the old Spotter for Sniper Elite, and the game itself.\
 I will keep how I achieved things to a minimum. I do not want to get very technical, just share my excitement and news!

@@ -45,7 +45,7 @@ By using different techniques, I managed to observe how the game worked from the
 - Stripped game sounds,
 - I even patched it so I can put symbols in my name since the regedit trick doesn't work on Steam. Every cool kid would put symbols in their names.
 
-![ExtractedTextures](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/ExtractedTexture.jpg)
+![ExtractedTextures](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/ExtractedTexture.gif)
 
 There are many funny developer notes and weird messages lurking in the software. Texts like:
 - `"Silly combination of flags"`

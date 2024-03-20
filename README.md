@@ -19,6 +19,40 @@
 ---
 # Progress Updates (most recent to oldest)
 
+### Update #10, Wednesday 20/03/2024 (Major Update)
+
+#### Game Status
+
+As Overlord's ability to recognize the game's status improves, there's now the ability to continuously determine if the game is running and whether the player is the host. Overlord will refrain from harvesting game data unless the user is the host. Notice in the GIF below the different cases of the game running, not running, and hosting or not.
+
+![GameStatus](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/OFSE1GameStatus.gif)
+
+#### Update Notification System
+
+As we get closer to a complete program, it becomes crucial for Overlord to effectively inform users about available updates and guide them to a secure location for downloading them.
+In my last update, I mentioned that `the interface hasn't changed since the last update that depicted it`, but I was mistaken. Overlord now features a discreet text positioned at the center, directly above the log box, indicating the availability of updates. Upon an update becoming available, the text transforms into a clickable hyperlink, directing users to the Official Releases page.\
+Observe this GIF, and notice the different states at which Overlord acts accordingly.
+
+![UpdateCheck](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/OFSE1UpdateCheck.gif)\
+
+
+#### Hosting Aiding Software
+
+My go-to choice for playing Sniper Elite online nowadays is Gameranger. I love Gameranger and will renew my yearly subscription soon. I have been studying how Gameranger works and how it connects players. While doing so, I remembered Tunngle, and to my surprise, I found out that it had been discontinued since 2018 and was no longer available for safe distribution.
+I will continue studying Gameranger while considering Hamachi, Parsec, and ZeroTier One in my research, knowing that they differ from Gameranger.
+
+#### Sniper Elite 1 Time Capsule
+
+That is the name of the repository that will be storing all the mods I mentioned in the previous update. I haven't finished polishing it. Links will be posted here once it is published.
+
+#### Update Outro
+*I had no clue what I was getting into when I started this project.
+The more I learned, the less I felt I knew.
+I owe a lot to Overlord for my personal growth as a programmer.
+And I owe it to Overlord to see it through to completion.*
+#### ***next README.md update at 24/04/2024 (dd/mm/yyyy)***
+
+---
 ### Update #9, Wednesday 06/03/2024 (Treasure Hunting)
 
 This update contains knowledge I've been acquiring and data I have been gathering in my spare time for almost three years. This update has been altered for years.
@@ -142,7 +176,8 @@ Please be patient and everything's going to work out.
 ---
 ### Update #6, Saturday 15/08/2020 (UI changes)
 
-There was no important progress this time. The UI changed to fit two clickable texts that lead to the only two official sites of the software. The signature was moved way higher and turned to simple text. From now on, if an error that doesn't break the software occurs, apart from the log text that appears (that can be lost as more text comes) and the window that pops that may close accidentally, a red sign also appears to warn you. It breaks or does nothing. It just stays there so you notice that something's wrong. 
+There was no important progress this time. The UI changed to fit two clickable texts that lead to the only two official sites of the software. The signature was moved way higher and turned to simple text. From now on, if an error that doesn't break the software occurs, apart from the log text that appears (that can be lost as more text comes) and the window that pops that may close accidentally, a red sign also appears to warn you. It breaks or does nothing. It just stays there so you notice that something's wrong.\
+Please observe this GIF
 ![Update6Notes](https://github.com/creatorpanda/OverlordForSniperElite1/blob/master/pics/Update6Notes.gif)
 
 From now on the most important part begins. The main reason this software is needed is kicking and banning.\

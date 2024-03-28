@@ -15,6 +15,8 @@
 
 **Note:** *I won't upload the program's code throughout the process. I don't know if I ever will or not. This is **the official page** where someone can find information **for Overlord** in case I ever publish a functional piece of software. All the downloads, upgrades, updates, and news regarding everything that concerns the project will be posted here.*
 
+*Current version: 1.0.0*
+
 ---
 ---
 # Progress Updates (most recent to oldest)
